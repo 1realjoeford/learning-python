@@ -11,10 +11,7 @@ def emoji_converter(message):
         
     
 
-#message = input('> ')
+message = input('> ')
 
 #print(emoji_converter(message))
 
-kofi = emoji_converter()
-ama = kofi('hiiii :)')
-print(ama)
