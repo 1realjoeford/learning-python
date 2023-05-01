@@ -14,6 +14,7 @@ print(description[0:11])
 print(description[-1])
 '''
 
+
 description = 'Red ferrari with black rims'
 print(len(description))
 print(description.upper())
