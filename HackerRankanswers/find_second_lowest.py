@@ -21,4 +21,4 @@ if __name__ == '__main__':
             names.append(each_student[0])
     
     for each in sorted(names):        
-        print(each)
+        print(f'{each} had the second lowest score of {second}')
